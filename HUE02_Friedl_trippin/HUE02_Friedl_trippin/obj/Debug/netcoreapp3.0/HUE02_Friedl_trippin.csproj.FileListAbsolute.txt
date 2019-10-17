@@ -1,0 +1,11 @@
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.exe
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.deps.json
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.runtimeconfig.json
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.runtimeconfig.dev.json
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.dll
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\bin\Debug\netcoreapp3.0\HUE02_Friedl_trippin.pdb
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\obj\Debug\netcoreapp3.0\HUE02_Friedl_trippin.csprojAssemblyReference.cache
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\obj\Debug\netcoreapp3.0\HUE02_Friedl_trippin.AssemblyInfoInputs.cache
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\obj\Debug\netcoreapp3.0\HUE02_Friedl_trippin.AssemblyInfo.cs
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\obj\Debug\netcoreapp3.0\HUE02_Friedl_trippin.dll
+D:\Schule\5_Klasse\POSE\C#\HUE02\trippin-exercise-FriedlFlorian\HUE02_Friedl_trippin\HUE02_Friedl_trippin\obj\Debug\netcoreapp3.0\HUE02_Friedl_trippin.pdb
